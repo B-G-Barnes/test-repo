@@ -1,2 +1,1 @@
-# test-repo
-First GitHub repo
+Day 1. I am controlling the space-time continuum.
